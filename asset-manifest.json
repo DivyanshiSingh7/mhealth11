@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mhealth11/static/css/main.d5bd4a3a.chunk.css",
+    "main.js": "/mhealth11/static/js/main.9eb664bb.chunk.js",
+    "main.js.map": "/mhealth11/static/js/main.9eb664bb.chunk.js.map",
+    "runtime-main.js": "/mhealth11/static/js/runtime-main.58b6e49a.js",
+    "runtime-main.js.map": "/mhealth11/static/js/runtime-main.58b6e49a.js.map",
+    "static/js/2.5885bdd7.chunk.js": "/mhealth11/static/js/2.5885bdd7.chunk.js",
+    "static/js/2.5885bdd7.chunk.js.map": "/mhealth11/static/js/2.5885bdd7.chunk.js.map",
+    "index.html": "/mhealth11/index.html",
+    "precache-manifest.c0b8729d462bb0e700fa8a5270d96a3a.js": "/mhealth11/precache-manifest.c0b8729d462bb0e700fa8a5270d96a3a.js",
+    "service-worker.js": "/mhealth11/service-worker.js",
+    "static/css/main.d5bd4a3a.chunk.css.map": "/mhealth11/static/css/main.d5bd4a3a.chunk.css.map",
+    "static/js/2.5885bdd7.chunk.js.LICENSE.txt": "/mhealth11/static/js/2.5885bdd7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mhealth11/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58b6e49a.js",
+    "static/js/2.5885bdd7.chunk.js",
+    "static/css/main.d5bd4a3a.chunk.css",
+    "static/js/main.9eb664bb.chunk.js"
+  ]
+}
